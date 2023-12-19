@@ -1,0 +1,28 @@
+a {
+	color: #ffffff;
+}
+
+blockquote {
+	border-color: #ffffff;
+}
+
+mark {
+	background-color: #ffffff;
+}
+
+.logo:hover {
+	color: #ffffff;
+}
+
+.main-nav__btn {
+	fill: #ffffff;
+}
+
+.toc {
+	color: #ffffff;
+}
+
+.share__icon {
+	fill: #ffffff;
+	stroke: #ffffff;
+}
